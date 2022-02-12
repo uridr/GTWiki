@@ -1,5 +1,5 @@
 # GTWiki
-**GTWiki** is a non-parallel dataset for **Graph-To-Text** (generation) & **Text-To-Graph** (parsing) tasks. It is used in the framework implemented in our paper: "A multi-task semi-supervised framework for Text2Graph & Graph2Text". 
+**GTWiki** is a non-parallel dataset for **Text-To-Graph** (parsing) & **Graph-To-Text** (generation) tasks. It is used in the framework implemented in our paper: "A multi-task semi-supervised framework for Text2Graph & Graph2Text". 
 
 ![Frame 27](static/framework.jpg)
 
