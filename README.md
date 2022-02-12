@@ -1,7 +1,7 @@
 # GTWiki
 **GTWiki** is a non-parallel dataset for **Graph-To-Text** (generation) & **Text-To-Graph** (parsing) tasks. It is used in the framework implemented in our paper: "A multi-task semi-supervised framework for Text2Graph & Graph2Text". 
 
-![Frame 27](/Users/orioldomingo/Downloads/Frame 27.jpg)
+![Frame 27](static/framework.jpg)
 
 ### Non-parallel data
 
@@ -9,6 +9,8 @@ GTWiki can be used for **unsupervised learning**. The text and graphs are collec
 
 * *English text:* 240,024 instances (one sentence or more per each) of 459.67 characters of average length.
 * *Graphs:* 271,095 instances (1 to 6 triples per each).
+
+Data available at `data/monolingual.txt` and `data/graphs.txt` respectively.
 
 
 
