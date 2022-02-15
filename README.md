@@ -1,5 +1,5 @@
 # GTWiki
-**GTWiki** is a non-parallel dataset for **Text-To-Graph** (parsing) & **Graph-To-Text** (generation) tasks. It is used in the framework implemented in our paper: "A multi-task semi-supervised framework for Text2Graph & Graph2Text". 
+**GTWiki** is a non-parallel dataset for **Text-To-Graph** (parsing) & **Graph-To-Text** (generation) tasks. It is used in the framework implemented in our paper: ["A multi-task semi-supervised framework for Text2Graph & Graph2Text"](https://arxiv.org/pdf/2202.06041.pdf). 
 
 ![Frame 27](static/framework.jpg)
 
@@ -36,5 +36,14 @@ Please, for more information about the collection algorithm see our paper.
 
 ### Citation
 
-If you find our work, data or the code useful, please consider to cite our paper.
+If you find our work, data or the code useful, please consider to cite [our paper](https://arxiv.org/pdf/2202.06041.pdf).
+```
+@misc{domingo2022multitask,
+      title={A multi-task semi-supervised framework for Text2Graph & Graph2Text}, 
+      author={Oriol Domingo and Marta R. Costa-jussà and Carlos Escolano},
+      year={2022},
+      eprint={2202.06041},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
