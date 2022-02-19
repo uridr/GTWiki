@@ -34,6 +34,16 @@ Please, for more information about the collection algorithm see our paper.
 
 
 
+### Requirements
+
+Previous steps requires **Python >= 3.6**. One can install all requiremets executing:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+
+
 ### Citation
 
 If you find our work, data or the code useful, please consider to cite [our paper](https://arxiv.org/pdf/2202.06041.pdf).
@@ -46,4 +56,4 @@ If you find our work, data or the code useful, please consider to cite [our pape
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-
+```
